@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/searchengine/!svn/ver/17853/labs/recomgroup/trunk/Eros/Artemis_v0.9/lab_common_so_artemis/eros/lib/jsoncpp-0.6.0/include/json
+END
+json.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/searchengine/!svn/ver/17853/labs/recomgroup/trunk/Eros/Artemis_v0.9/lab_common_so_artemis/eros/lib/jsoncpp-0.6.0/include/json/json.h
+END
+value.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/searchengine/!svn/ver/17853/labs/recomgroup/trunk/Eros/Artemis_v0.9/lab_common_so_artemis/eros/lib/jsoncpp-0.6.0/include/json/value.h
+END
+writer.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/searchengine/!svn/ver/17853/labs/recomgroup/trunk/Eros/Artemis_v0.9/lab_common_so_artemis/eros/lib/jsoncpp-0.6.0/include/json/writer.h
+END
+features.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/searchengine/!svn/ver/17853/labs/recomgroup/trunk/Eros/Artemis_v0.9/lab_common_so_artemis/eros/lib/jsoncpp-0.6.0/include/json/features.h
+END
+reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/searchengine/!svn/ver/17853/labs/recomgroup/trunk/Eros/Artemis_v0.9/lab_common_so_artemis/eros/lib/jsoncpp-0.6.0/include/json/reader.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/searchengine/!svn/ver/17853/labs/recomgroup/trunk/Eros/Artemis_v0.9/lab_common_so_artemis/eros/lib/jsoncpp-0.6.0/include/json/config.h
+END
+autolink.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/searchengine/!svn/ver/17853/labs/recomgroup/trunk/Eros/Artemis_v0.9/lab_common_so_artemis/eros/lib/jsoncpp-0.6.0/include/json/autolink.h
+END
+forwards.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/searchengine/!svn/ver/17853/labs/recomgroup/trunk/Eros/Artemis_v0.9/lab_common_so_artemis/eros/lib/jsoncpp-0.6.0/include/json/forwards.h
+END
